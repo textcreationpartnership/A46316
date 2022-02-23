@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Journal of what has past in the North of Ireland since the landing of the Duke of Schomberg to the surrender of Carrick-Fergus together with the rates set upon all provisions that are brought to the market-town or to the camp / in a letter from one that was an eye-witness to all those matters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46316</idno>
+            <idno type="STC">Wing J1110</idno>
+            <idno type="STC">ESTC R37955</idno>
+            <idno type="EEBO-CITATION">17155337</idno>
+            <idno type="OCLC">ocm 17155337</idno>
+            <idno type="VID">105981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1618:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Journal of what has past in the North of Ireland since the landing of the Duke of Schomberg to the surrender of Carrick-Fergus together with the rates set upon all provisions that are brought to the market-town or to the camp / in a letter from one that was an eye-witness to all those matters.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Gold,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Christ Church Library, Oxford University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:105981:1" rendition="simple:additions"/>
+            <head>A JOURNAL Of what has paſt in the North of IRELAND, Since the Landing of the Duke of <hi>SCHOMBERG,</hi> to the Surrender of <hi>Carrick-Fergus;</hi> together with the Rates ſet upon all Proviſions that are brought to the Market-Town, or to the Camp. In a Letter from one that was an Eye-witneſs to all thoſe Matters.</head>
+            <argument>
+               <p>
+                  <floatingText xml:lang="eng" type="license">
+                     <body>
+                        <p>
+                           <hi>Licenſed,</hi>
+                        </p>
+                        <closer>
+                           <signed>J. F.</signed>
+                           <date>1689.</date>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE General having cauſed a <hi>Poſt-Office</hi> for to be Erected at <hi>Donohodee</hi> for ſending Letters to <hi>England,</hi> by way of <hi>Port-Patrick</hi> in <hi>Scotland,</hi> this comes that way, and is to diſſcharge my promiſe (the firſt Oppertunity certain that I had,) to you of what hath occur<g ref="char:EOLhyphen"/>red ſince our Arrival.</p>
+            <p>The Garriſon of <hi>Carrickfergus,</hi> no ſooner ſaw our Fleet, but they Burnt all their Subburbs: Seized all the <hi>Proteſtants</hi> in the place. Made faſt their Gates, and put themſelves in a poſture of Defence.</p>
+            <p>About Three in the Afternoon, <hi>Tueſday, Auguſt</hi> 13th. the General with that part of the Fleet that was with him put into <hi>Bangor,</hi> on the other ſide of the <hi>Lough,</hi> over againſt <hi>Carrickfergus;</hi> and that Afternoon Landed all the Soldiers, and forthwith ſent Parties to <hi>Killaleigh, Hilsborough, Liſſnegarvey</hi> and <hi>Bellfaſt,</hi> in which places they found not one Papiſt to reſiſt them, but all bid<g ref="char:EOLhyphen"/>ing them Welcome with ſuch Preſents of Food as the Ravenous Papiſts had left them. And this Night the General with the reſt, Encamped near <hi>Bangor. Wedneſday</hi> 14th. Early in the Morning, his Grace Decamped to <hi>Bellfaſt,</hi> and Encamped there until the remainder of the Fleet came to him, which was not until the 19th. And then they Landed their Men at <hi>Bellfaſt,</hi> where having Refreſhed themſelves, on the 21ſt. they March'd towards <hi>Carrickfergus,</hi> Eight Miles; the General at the ſame time ordering the Men of War, which were Seven or Eight to draw up before the Town, and as ſoon as they ſaw the Army by Land come before it, to Play on it with their Cannon.</p>
+            <p>Accordingly about Six in the Afternoon they began, and continued Fireing until the Army had raiſed their Batteries, one upon the <hi>Eaſt,</hi> and another on the <hi>North</hi> ſide of the Town, where was a vaſt Number of Horſes, and other Cattle, all which fell into the Soldiers hands as an En<g ref="char:EOLhyphen"/>couragement to go further. Capt. <hi>George</hi> of the Lord <hi>Liſsburns</hi> Regiment with greate Cou<g ref="char:EOLhyphen"/>rage and Bravery, fetch'd off a very Great Booty of Horſes and other Cattle, out of an Orchard under the very Walls. Indeed ſuch was the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Courage of all, that thoſe were <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were firſt Admitted to places <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>The Batteries being Finiſhed, the Cannon and Morters began to Play that Night, and continu<g ref="char:EOLhyphen"/>ed Playing until next Morning <hi>viz. Thurſday</hi> 22.</p>
+            <p>When the General for want of a Trumpet, ſent Early in the Morning a Drum into the Town, to Demand a Surrender upon Diſſcreti<g ref="char:EOLhyphen"/>on, which they Refuſed to do otherwiſe then with Bag and Baggage, Muſquer and Sword, Drums Beating, Trumpets Sounding and Col<g ref="char:EOLhyphen"/>ours Flying, and a Convoy to Conduct them ſafe to their own Party.</p>
+            <p>To which the General returning no Anſwer; About Eight in the Morning, they ſent out an Officer to deſire his Graces Reſolutions, to thoſe their Peremptory Demands. To which his Grace Anſwered.</p>
+            <q>
+               <hi>THat he came hither in the Names, and by Order of their Majeſties, King</hi> William <hi>and Queen</hi> Mary, <hi>to Reſtore the Subjects and Laws of this Their Kingdom of</hi> Ireland, <hi>(which had been long Abuſed and Corrupted,) to their due State and Cur<g ref="char:EOLhyphen"/>rent. And that purſuant to Their ſaid Majeſties Natural Inclinations and Deſire, to Avoid as much as poſſible Effuſion of Chriſtian Blood. He, as Their Majeſties General ſhould do all that in him lay for per<g ref="char:EOLhyphen"/>formance thereof: And in Order thereunto Aſſured them, if they would Surrender without further Trouble, and Swear Feality to Their ſaid Majeſties, deliver up their Armes and Serviceable Horſes, and what Elſe they had Taken from the Proteſtants; they ſhould not only have their Lives and Liberties, but Equal Protection to Each of Their Majeſties Pro<g ref="char:EOLhyphen"/>teſtant Subjects; But if they then Refuſed to Accept thoſe Gracious Offers, he had Aquitted himſelf of the Blood ſhould be Spilt, could not afterwards Grant them the like Terms, but would Endeavour to Reduce them by Force of Arms.</hi>
+            </q>
+            <p>And accordingly they Refuſed theſe Terms; the General Ordered the Cannon, Bombs and ſmall Shot forthwith to play again upon them, which they did without Intermiſſion.</p>
+            <p>The Parley aforementioned, was no ſooner over, but there came into the Camp 500 Horſe from <hi>Enniskilling,</hi> ſome without Boots and Piſt<g ref="char:EOLhyphen"/>ols, others with Piſtols but without Carabines, ſome with one Piſtol and a Carabine without a Sword, others without all, with only a Fowl<g ref="char:EOLhyphen"/>ing Peice or Fire-lock, moſt of their Horſes ſmall and poor, yet ſuch have been the Courage and Actions of theſe Men as is ſcarce Credible, eſpecially (of which you have heard e're this) the Routing 3000 under <hi>Maccarty,</hi> Takeing him
+<pb facs="tcp:105981:2"/>Priſoner, and Killing double their ow Number: Theſe brave Men the General made Welcome, and will ſoon be better Arm'd and Accoutred.</p>
+            <p>In the Evening I March'd into the Camp; and through the Whole, and found the Lord <hi>Liſs<g ref="char:EOLhyphen"/>burns,</hi> and a <hi>French</hi> Regiment Marching with Faggots, Shovels, Pick-Ax's, and ſuch other Implements, beſides their Arms, to Releive Two other Regiments in the Trenches. The Ge<g ref="char:EOLhyphen"/>neral himſelf until Twelve at Night, was Marching up and down in Perſon, giving Ne<g ref="char:EOLhyphen"/>ceſſary Orders, and going even to the Batteries, and no more Concern'd at the Enemies Bullets Humming and Whizing about his Ears, then if it had been Muſick of Peace.</p>
+            <p>I ſaw my ſelf ſeveral of the Enemies Bullets fall cloſe by him, and went even into the Tren<g ref="char:EOLhyphen"/>ches.</p>
+            <p>I ſtaid in the Camp all Night, to pleaſe my Eies and Ears with the Sight and Noiſe of our Bombs, Cannon, and ſmall Shot, which conti<g ref="char:EOLhyphen"/>nually plaid on the Town, like inceſſant Showers of Hail, with which they beat down the Gate on the North ſide of the Town, and great part of the Wall adjoyning, and much of the Half<g ref="char:EOLhyphen"/>moon by the Caſtle, and as a Drummer, and others, who ſtole out, ſaid killed their principal Gunner, by diſmounting a peece of Cannon up<g ref="char:EOLhyphen"/>on him, while he was levelling at our Battery on the Half-moon, and about a Hundred others; much damnifying the Houſes.</p>
+            <p>About 5 next Morning (<hi>Aug.</hi> 23.) I returned to <hi>Bellfaſt,</hi> and find that a Proteſtant may alrea<g ref="char:EOLhyphen"/>dy ſafely, and without any Danger, march throughout the whole Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> which is one fourth part of the Kingdom, with only a Stick in his hand, not a Papiſt being any where to be found in it, except about 2000, who are fled to the <hi>Red Glin,</hi> between the Mountains, a<g ref="char:EOLhyphen"/>bout Twenty miles Northward of this place, for fear of being diſpoild by the Proteſtants (who they have ſo ſerved already:) They have few or nor Arms, except half Pikes and Skeanes, with which they hoped to ſecure themſelves from the Violence of the Country people, until they can procure pardon and protection; which I am told the Gederal is about ordering for them.</p>
+            <p>To our great Surprize, and no leſs Joy, we found the whole Country full of Corn, and all manner of Proviſion, whoſe plenty you may gueſs at by the following Table of Rates ſet up at the Market-Croſs of this place, and the which is ſo ſatisfactory that while I was Tranſcribing it I hard the Sellor ſay, it was enough in all conſci<g ref="char:EOLhyphen"/>ence, and almoſt double what they got before our Landing. <hi>Vera Capie</hi> follows</p>
+            <p>
+               <hi>Rates fet upon Goods and <g ref="char:V">Ʋ</g>ictuals to be ſold in the Camp, before</hi> Carrickfergus; <hi>and all other places hereabouts.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>p.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wheat, the Barrel, cantaining 32. <hi>Wincheſter</hi> pecks, or two <hi>Wincheſt<g ref="char:EOLhyphen"/>er</hi> Barrels.</cell>
+                     <cell>0</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mault, the Barrel, containing 44 <hi>Wincheſt.</hi> pecks, or 2 Barrels and a half.</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Old Oats by their Mault-meaſure, the Barrel at</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>New Oats the ſame Meaſure, the the Barrel</cell>
+                     <cell>0</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Oatmeal, the Peck, containing Sixteen Quarts,</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Freſh Butter, 18 Ounces to the Pound,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Salt Butter, 16 Ounces to the pound,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>New-milk-Cheeſe, a pound,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Scim'd-milk-Cheeſd, a pound,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>New-milk, 2 quarts for</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Scim'd-milk, or Butter-milk, 4 quarts for</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Brandy, a quartern,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hay, a Hundred weight,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Freſh Beef, a pound,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Mutton, a pound,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Geeſe, a piece,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hens a piece,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Eggs, 8 for a</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>White-Bread, 15 Ounces for</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Houſe-hold, or Oat-Bread; 20 Ounc.</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aquavita, a quartern,</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>To which all Perſons are hereby required to Conform at their Perril; and if any conceal their ſaid Goods, and keep them from the Mar<g ref="char:EOLhyphen"/>ket, in expectation of greater Rates, the ſame ſhall be ſeized.</p>
+            <p>We have no certain Account of the Enemies Army; but it is confidently reported, they are now at <hi>Lurgan Race,</hi> and have made from thence and the <hi>Neury</hi> ſome Scouts as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as within Six Miles of <hi>Dromoore,</hi> and are about 30000 ſtrong; but ſo cowardly, that they dare not approach further this way: But it's believ'd upon our Ap<g ref="char:EOLhyphen"/>proach will Retreat, and Retreat, till they have no more Room left for it. The Country, all hereabouts, offer their Service, as one man, to the General, to go againſt the Enemy; but as yet, but here and there a man has been accepted.</p>
+            <p>The 23 <hi>d.</hi> in the Afternoon, the Garriſon ſent out an Officer, with Offers to Surrender, upon the Terms formerly offered them: But the Ge<g ref="char:EOLhyphen"/>neral refuſed ſo to do, or otherwiſe than upon Diſcretion; and that unleſs they ſent out all the Proteſtants ſafe and well he would put every Pa<g ref="char:EOLhyphen"/>piſt to the Sword he ſhould take. This they alſo rejected; and the Cannon and Bombs have plaid all laſt Night, and this Morning; as I was wri<g ref="char:EOLhyphen"/>ting hereof, I ſaw the Town on Fire: So that by the next you may her of its Surrender, unleſs it comes to you ſooner by Sea. <hi>I am Yours.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>JUST now comes Advice the greateſt part of the Town is burnt, and have beat a Parly Three times, but the General will not hear until they ſend ſafe all the Proteſtants out.</p>
+            <p>Mr. <hi>Paterſon,</hi> Chirurgeon to the Ld. <hi>Liſsburnes</hi> Regiment, was laſt Night killed in the Trenches.</p>
+            <closer>
+               <dateline>
+                  <hi>Belfaſt,</hi> 
+                  <date>Auguſt, 25th. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Goldin</hi> in the <hi>Strand,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
